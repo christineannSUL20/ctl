@@ -1,0 +1,5 @@
+Unnamed: 0_x,person_ID,name,sex,date of birth,Unnamed: 0_y,call_id,Referal Soure,attorney,body_part_1,body_part_2,body_part_3,body_part_4,body_part_5,surgery,injury_date,intake
+0,0,100,Jerry Filer,male,1999-06-29,0,136,website,Atticus Finch,hand,Neck,,,,NO,2016-11-11,2017-05-22
+1,1,101,Richard Myers,male,1965-11-26,1,137,referal,Perry Mason,Neck,,,,,YES,2015-05-09,2017-05-22
+2,2,102,Mable Bacon,female,1956-06-19,2,138,website,Rachel Zane,ankle,neck,hip,,,NO,2016-11-10,2017-05-22
+3,3,103,Debbie Harty,female,2024-02-23,3,139,Other,Rusty Sabich,arm,,,,,NO,2015-04-09,2017-05-22
