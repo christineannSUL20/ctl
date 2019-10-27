@@ -1,0 +1,5 @@
+Unnamed: 0_x,person_ID,name,sex,date of birth,Unnamed: 0_y,call_id,Referal Soure,attorney,body_part_1,body_part_2,body_part_3,body_part_4,body_part_5,surgery,injury_date,intake,take,Ally McBeal,Atticus Finch,Daniel Kafee,EYE,Facebook,Google,Head,JoAnee Galloway,Neck,Other,Patty Hewes,Perry Mason,Rachel Zane,Rusty Sabich,ankle,arm,elbow,eye,foot/feet,hand,hands,head,hip,neck,referal,website
+0,0,100,Penelope Lewis,1.0,1990-08-31,0,136,Facebook,Patty Hewes,Head,,,,,1,2015-11-27,2017-02-06,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,101,David Anthony,0.0,1971-10-14,1,137,referal,Patty Hewes,hands,elbow,,,,1,2014-06-30,2017-02-07,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+2,2,102,Ida Shipp,1.0,1962-05-24,2,138,,Rachel Zane,hip,arm,foot/feet,,,0,2016-04-22,2017-02-07,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+3,3,103,Joanna Moore,1.0,2017-03-10,3,139,Google,Perry Mason,EYE,ankle,,,,0,2015-08-12,2017-02-08,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
